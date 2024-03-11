@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+    flex-direction: column;
+}
+
+
+.header {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+}
+
+.pragraph {
+	font-family: "Caveat", cursive;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+  }
+  
